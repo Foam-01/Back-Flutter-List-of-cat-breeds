@@ -4,7 +4,7 @@ Cross-platform Flutter app displaying a list of cat breeds connected with a Node
 
 ---
 
-**Author:** Foam-01
+
 
 ---
 
